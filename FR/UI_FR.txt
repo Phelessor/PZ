@@ -1,0 +1,5 @@
+UI_FR = {
+	Lightswitches_fordummies = "Bricolage d'Interrupteurs pour les Non-Nuls",
+	Base.Lightswitches_fordummies = "Bricolage d'Interrupteurs pour les Non-Nuls",
+	
+}

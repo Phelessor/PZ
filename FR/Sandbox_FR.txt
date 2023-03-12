@@ -1,0 +1,49 @@
+Sandbox_FR = {
+	Sandbox_Nipswitch = "OPTIONS DES INTERRUPTEURS",
+	Sandbox_Nipswitch_Pagelength = "Livre d'apprentissage: Nombre total de pages",
+	Sandbox_Nipswitch_Pagelength_tooltip = "<RGB:232,209,0>1 page = instantané  \n12 pages = 1 minute  \n120 pages = 10 minutes (Vitesse par défaut du Sandbox) \nMultipliez les minutes par la vitesse de lecture sur votre serveur pour obtenir votre nombre de minutes par 12 pages</RGB> ",
+	Sandbox_Nipswitch_Booklevel = "Livre d'apprentissage: Niveau en électricité requis pour lire",
+	Sandbox_Nipswitch_Booklevel_tooltip = "<RGB:232,209,0>Niveau en électricité requis pour lire le livre",
+	Sandbox_Nipswitch_Bulbdisabled = "Interrupteurs: Désactiver le retrait d'ampoules",
+	Sandbox_Nipswitch_Bulbdisabled_tooltip = "<RGB:232,209,0>Si vous cochez la case, vous allez désactiver la possibilité de retirer l'ampoule d'un interrupteur (Le niveau requis pour Retirer une ampoule n'est plus pris en compte)",
+	Sandbox_Nipswitch_Bulblevel = "Interrupteurs: Niveau en électricité requis pour changer une ampoule",
+	Sandbox_Nipswitch_Bulblevel_tooltip = "<RGB:232,209,0>Niveau en électricité requis pour Retirer/Remettre l'ampoule d'un interrupteur",
+	Sandbox_Nipswitch_Movedisabled = "Interrupteurs: Désactiver Prendre/Poser",
+	Sandbox_Nipswitch_Movedisabled_tooltip = "<RGB:232,209,0>Si vous cochez la case, les joueurs ne pourront plus prendre les interrupteurs (Le niveau requis pour Prendre/Poser un interrupteur n'est plus pris en compte)",
+	Sandbox_Nipswitch_Movelevel = "Interrupteurs: Niveau en électricité requis pour Prendre/Poser",
+	Sandbox_Nipswitch_Movelevel_tooltip = "<RGB:232,209,0>Niveau en électricité requis pour Prendre/Poser les interrupteurs",
+	Sandbox_Nipswitch_Batterydisabled = "Interrupteurs: Désactiver les connecteurs à Pile",
+	Sandbox_Nipswitch_Batterydisabled_tooltip = "<RGB:232,209,0>Si vous cochez la case, vous ne pourrez pas attacher vos connecteurs à Pile aux interrupteurs d'éclairage (Le niveau requis pour Ajouter un connecteur à pile n'est plus pris en compte)",
+	Sandbox_Nipswitch_Batterylevel = "Interrupteurs: Niveau en électricité requis pour ajouter un connecteur à pile",
+	Sandbox_Nipswitch_Batterylevel_tooltip = "<RGB:232,209,0>Le niveau 5 est le niveau en électricité minimal (codé en dur dans PZ) pour ajouter un connecteur à pile",
+	Sandbox_Nipswitch_Craftspeed = "Fabrication: Temps de fabrication",
+	Sandbox_Nipswitch_Craftspeed_tooltip = "120 = 2 min \n300 = 5 min \n600 = 10 min",
+	Sandbox_Nipswitch_Craftwire = "Fabrication: Fils de Fer nécessaires",
+	Sandbox_Nipswitch_Craftwire_tooltip = "<RGB:232,209,0>Combien de Fils de Fer sont nécessaires pour la fabrication",
+	Sandbox_Nipswitch_ElectronicsScrap = "Fabrication: Pièces électronique nécessaires",
+	Sandbox_Nipswitch_ElectronicsScrap_tooltip = "<RGB:232,209,0>Combien de Pièces électroniques sont nécessaires pour la fabrication",
+	Sandbox_Nipswitch_Craftducttape = "Fabrication: Duct Tape nécessaires",
+	Sandbox_Nipswitch_Craftducttape_tooltip = "<RGB:232,209,0>Combien d'unités de Duct Tape sont nécessaires pour la fabrication",
+	Sandbox_Nipswitch_Craftscrews = "Fabrication: Vis nécessaires",
+	Sandbox_Nipswitch_Craftscrews_tooltip = "<RGB:232,209,0>Combien de vis sont nécessaires pour la fabrication",
+
+    Sandbox_Bookchanceplace = "Livre d'apprentissage: chance de l'obtenir dans le monde",
+	Sandbox_Bookchanceplace_option6 = "Désactivé"
+	Sandbox_Bookchanceplace_option5 = "PARTOUT",
+	Sandbox_Bookchanceplace_option4 = "Commun"
+	Sandbox_Bookchanceplace_option3 = "Peu Fréquent"
+	Sandbox_Bookchanceplace_option2 = "Rare"
+	Sandbox_Bookchanceplace_option1 = "Très Rare"
+    Sandbox_Bookchanceplace_tooltip = "<RGB:232,209,0>Apparaît dans: \nLibrairie \nBibliothèque \nÉtagère de salon \nBureau résidentiel \nTable de chevet ",
+
+	Sandbox_Bookchancezombie = "Livre d'apprentissage: chance de l'obtenir sur un zombie",
+	Sandbox_Bookchancezombie_option6 = "Désactivé"
+	Sandbox_Bookchancezombie_option5 = "PARTOUT",
+	Sandbox_Bookchancezombie_option4 = "Commun"
+	Sandbox_Bookchancezombie_option3 = "Peu Fréquent"
+	Sandbox_Bookchancezombie_option2 = "Rare"
+	Sandbox_Bookchancezombie_option1 = "Très Rare"
+	Sandbox_Bookchancezombie_tooltip = "<RGB:232,209,0>Apparaît dans l'inventaire de zombies abattus."
+
+
+}
